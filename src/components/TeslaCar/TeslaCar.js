@@ -13,6 +13,6 @@ const TeslaCar = (props) => (
 
 TeslaCar.propTypes = {
   wheelSize: PropTypes.number
-};
+}
 
 export default TeslaCar;
